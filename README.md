@@ -38,7 +38,7 @@ Here are some ideas to get you started:
             alt="Twitter Badge" />
     </a>
     <a href="https://twitter.com/DiCHANHO" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/dichanho?color=blue&label=PaulRayden&logo=twitter&style=for-the-badge"
+        <img src="https://img.shields.io/twitter/follow/dichanho?color=blue&label=dichanho&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
 </div>

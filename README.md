@@ -19,20 +19,16 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Paul Rayden (DiCHANHO)</h1>
     <h3 align="center">A passionate Web Full-stack Developer & White hat ethical hacking Sr. from United States of America living in Argentina. I Networker and i like crowdfunding Startups 😎 Blockchain Evangelist.
-        I am a founder of 35 #Sartups (emerging companies).
-        Paul.</h3>
+        <br />I am a founder of 35 Sartups (emerging companies of fast-growth).
+    </h3>
 </div>
 
 
 <div id="badges" align="center">
-    <a href="http://twitch.com/dichanho" target="_blank">
+    <!-- a href="http://twitch.com/dichanho" target="_blank">
         <img src="https://img.shields.io/twitch/status/dichanho?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/@PaulRayden" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
+    </a -->    
     <a href="https://twitter.com/PaulRayden" target="_blank">
         <img src="https://img.shields.io/twitter/follow/PaulRayden?color=blue&label=PaulRayden&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
@@ -41,13 +37,18 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/twitter/follow/dichanho?color=blue&label=dichanho&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
+    <br />
+    <a href="https://www.youtube.com/@PaulRayden" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC1r2SdqBUNLBJTWy1VZbMRQ?label=suscriptores&logo=youtube&style=for-the-badge"
+            alt="Youtube Badge" />
+    </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly tweets on [https://twitter.com/dichanho](https://twitter.com/dichanho) and instagram feed on [https://instagram.com/dichanho](https://instagram.com/dichanho)
+- 📝 I regularly instagram feed on [https://instagram.com/dichanho](https://instagram.com/dichanho) and tweets on [https://twitter.com/dichanho](https://twitter.com/dichanho)
 
 - 💬 Ask me about **HTML5, CSS, PHP, NodeJs, ElectronJS, MySQL, MSSQL and more.**
 
@@ -79,6 +80,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulRayden&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulRayden&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulRayden&show_icons=true&layout=compact&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRayden&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

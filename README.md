@@ -34,11 +34,11 @@ Here are some ideas to get you started:
             alt="Youtube Badge" />
     </a>
     <a href="https://twitter.com/PaulRayden" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/PaulRayden?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
+        <img src="https://img.shields.io/twitter/follow/PaulRayden?color=blue&label=PaulRayden&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
     <a href="https://twitter.com/DiCHANHO" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/dichanho?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
+        <img src="https://img.shields.io/twitter/follow/dichanho?color=blue&label=PaulRayden&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
 </div>
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulRayden&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulRayden&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRayden&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

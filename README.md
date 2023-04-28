@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly instagram feed on [https://instagram.com/dichanho](https://instagram.com/dichanho) and tweets on [https://twitter.com/dichanho](https://twitter.com/dichanho)
 
-- 💬 Ask me about **HTML5, CSS, PHP, NodeJs, ElectronJS, MySQL, MSSQL and more.**
+- 💬 Ask me about **GitHub, HTML5, CSS, PHP, NodeJs, ElectronJS, MySQL, MSSQL, MongoDB, SSH, Linux Server, Dedicated Server, VPS, Cloud and more.**
 
 - 📫 How to reach me **paulrayden@paulrayden.com**
 
@@ -68,9 +68,10 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
       </div>
 </div>
 
@@ -80,6 +81,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulRayden&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulRayden&show_icons=true&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulRayden&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRayden&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRayden&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

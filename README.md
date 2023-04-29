@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly instagram feed on [https://instagram.com/dichanho](https://instagram.com/dichanho) and tweets on [https://twitter.com/dichanho](https://twitter.com/dichanho)
+- 📝 I regularly instagram feed on [https://instagram.com/dichanho](https://instagram.com/dichanho) and tweets on [https://twitter.com/dichanho](https://twitter.com/dichanho) or [https://twitter.com/paulrayden](https://twitter.com/paulrayden)
 
 - 💬 Ask me about **GitHub, HTML5, CSS, PHP, NodeJs, ElectronJS, MySQL, MSSQL, MongoDB, SSH, Linux Server, Dedicated Server, VPS, Cloud and more.**
 

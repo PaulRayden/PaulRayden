@@ -19,10 +19,9 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Paul Rayden (DiCHANHO)</h1>
     <h3 align="center">A passionate Web Full-stack Developer & White hat ethical hacking Sr. from United States of America living in Argentina. I Networker and i like crowdfunding Startups 😎 Blockchain Evangelist.
-        <br />I am a founder of 35 Sartups (emerging companies of fast-growth).
+        <br />Having founded over 35 startups from the ground up, I've generated significant value across multiple industries. My agency currently manages a portfolio of 52 innovative companies, solidifying my position as a driver of business growth.
     </h3>
 </div>
-
 
 <div id="badges" align="center">
     <!-- a href="http://twitch.com/dichanho" target="_blank">
